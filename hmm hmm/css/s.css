@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0
+  font-family : sans-serif;
+  width: 100%;
+}
+
+
+h1{
+  font-family: 'Mr Dafoe', cursive;
+  position: absolute;
+  font-size: 10.5rem;
+  top: 260px;
+}
+
+
+h2{
+  font-family: 'Pathway Gothic One', sans-serif;
+  position: absolute;
+  color: #FFFFFF;
+  top: 500px;
+  font-size: 2rem;
+}
+
+
+h3{
+  font-family: 'Pathway Gothic One', sans-serif;
+  position: absolute;
+  color: #FFFFFF;
+  top: 600px;
+  font-size: 4.5rem;
+}
+
+
+.hero{
+  position: relative;
+  text-align: center;
+}
+
+
+.img{
+  overflow: hidden;
+}
+
+
+.btn{
+  position: absolute;
+  top: 725px;
+  margin-left: 865px;
+  width: 200px;
+  height: 50px;
+  border-width: 0;
+  border-radius: 100px;
+  background-color: #f16c3c;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+.btn:hover{
+  background-color: #fff873;
+}

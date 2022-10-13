@@ -1,0 +1,137 @@
+h1{
+    font-family: agency fb;
+    position:absolute;
+    color: white;
+    font-size: 14em;
+    top: 380px;
+    left: 30px;
+  }
+  h2{
+    font-family: agency fb;
+    color: Black;
+    font-size: 7em;
+  }
+  
+  h3{
+    font-size: 3em;
+  }
+  
+  .navbar{
+    padding: 1%;
+  }
+  
+  .s-text{
+    font-size: 0.2em;
+  }
+  
+  .pic{
+    padding-bottom: 60px;
+  }
+  
+  .sty{
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 25px;
+    background: #f2e968;
+    padding: 10px 15px 10px 15px;
+    border: dotted #ffffff 0px;
+    text-decoration: none;
+    width: 200px;
+    align-self: center;
+  }
+  
+  .sty:hover{
+  
+    background: #2cf288;
+    text-decoration: none;
+  
+  }
+  
+  .skills{
+    text-align: center;
+  
+  }
+  
+  .nav-item{
+    font-size: 1.6em;
+    padding-left: 80px;
+  }
+  
+  .navbar-brand{
+    font-size: 2em;
+  }
+  
+  .title{
+    text-align: left;
+    position: relative;
+    overflow-x : hidden;
+  }
+  
+  .title-img{
+    max-width: 100%;
+  }
+  
+  .skill{
+    background-color : #27a9a0;
+    padding: 7% 4%;
+  }
+  
+  .s-text{
+    font-size: 5em;
+    color: white;
+  }
+  
+  .row{
+    text-align: center;
+    width: 100%;
+  }
+  .tiles{
+    width: 100%;
+  }
+  .projects{
+    text-align: center;
+    width : 100%;
+  }
+  .button{
+    background-color: #00a99d;
+    width: 350px;
+  }
+  .card{
+    width: 550px;
+    background-color: #e3e3e3;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    border-color: #e3e3e3;
+    padding: 5% 5%;
+  }
+  .card-header{
+    background-color: #e3e3e3;
+    padding-bottom: 40px;
+  }
+  .p{
+    padding: 2% 3%;
+  }
+  
+  .fa-brands{
+    padding: 5px 30px;
+    font-size: 2em;
+  }
+  .foot{
+    background-color: #27a9a0;
+    text-align:center;
+    padding: 7% 4%;
+    padding-bottom:  2%;
+  }
+  .cm{
+    border-radius: 50px;
+    width: 450px;
+    height: 300px;
+  }
+  .class-header{
+    text-align: center;
+  }
+  
